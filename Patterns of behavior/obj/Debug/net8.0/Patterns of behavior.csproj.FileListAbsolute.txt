@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\bin\Debug\net8.0\Patterns of behavior.exe
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\bin\Debug\net8.0\Patterns of behavior.deps.json
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\bin\Debug\net8.0\Patterns of behavior.runtimeconfig.json
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\bin\Debug\net8.0\Patterns of behavior.dll
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\bin\Debug\net8.0\Patterns of behavior.pdb
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\obj\Debug\net8.0\Patterns of behavior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\obj\Debug\net8.0\Patterns of behavior.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\obj\Debug\net8.0\Patterns of behavior.AssemblyInfo.cs
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\obj\Debug\net8.0\Patterns of behavior.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\obj\Debug\net8.0\Patterns of behavior.dll
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\obj\Debug\net8.0\refint\Patterns of behavior.dll
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\obj\Debug\net8.0\Patterns of behavior.pdb
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\obj\Debug\net8.0\Patterns of behavior.genruntimeconfig.cache
+C:\Users\User\Desktop\Yarik\Patterns-of-behavior\Patterns of behavior\Patterns of behavior\obj\Debug\net8.0\ref\Patterns of behavior.dll
